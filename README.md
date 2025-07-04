@@ -54,7 +54,7 @@ At Amazon Robotics, I’m building a scalable machine learning retraining pipeli
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prash-red&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash-red&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash-red&layout=compact&theme=radical&langs_count=5&hide=Jupyter%20Notebook)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prash-red&theme=radical)
 
 ---
